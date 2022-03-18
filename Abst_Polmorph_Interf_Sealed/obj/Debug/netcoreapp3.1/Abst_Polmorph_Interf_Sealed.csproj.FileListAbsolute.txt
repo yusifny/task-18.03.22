@@ -1,0 +1,13 @@
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/obj/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/obj/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/obj/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/obj/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.AssemblyInfo.cs
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/obj/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/bin/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.deps.json
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/bin/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.runtimeconfig.json
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/bin/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/bin/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.dll
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/bin/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.pdb
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/obj/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.dll
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/obj/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.pdb
+/Users/yusifnazarbayov/Visual Studio/Projects/Abst_Polmorph_Interf_Sealed/obj/Debug/netcoreapp3.1/Abst_Polmorph_Interf_Sealed.genruntimeconfig.cache
